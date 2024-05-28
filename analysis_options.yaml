@@ -1,0 +1,18 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - lib/src/common/localization/generated/app_localizations_en.dart
+    - lib/src/common/localization/generated/app_localizations_ru.dart
+  errors:
+    invalid_annotation_target: ignore
+
+linter:
+  rules:
+    - prefer_relative_imports
+    - prefer_single_quotes
+    - cancel_subscriptions
+    - annotate_overrides
+    - avoid_relative_lib_imports
+    - prefer_const_constructors
+    - directives_ordering

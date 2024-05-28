@@ -1,0 +1,67 @@
+{
+  "appTitle": "Alias",
+  "@appTitle": {
+    "description": "Title of the app"
+  },
+  "newGame": "New game",
+  "@newGame": {
+    "description": "Title 'New game'"
+  },
+  "howToPlay": "How to play",
+  "@howToPlay": {
+    "description": "Title `How to play`"
+  },
+  "packagesTitle": "Packages",
+  "@packagesTitle": {
+    "description": "Title of packages page"
+  },
+  "teamsTitle": "Teams",
+  "@teamsTitle": {
+    "description": "Title of teams page"
+  },
+  "gameSettingsTitle": "Game settings",
+  "@gameSettingsTitle": {
+    "description": "Title of game settings page"
+  },
+  "easyPackageDifficulty": "Easy",
+  "@easyPackageDifficulty": {
+    "description": "Easy difficulty of the package"
+  },
+  "mediumPackageDifficulty": "Medium",
+  "@mediumPackageDifficulty": {
+    "description": "Medium difficulty of the package"
+  },
+  "hardPackageDifficulty": "Hard",
+  "@hardPackageDifficulty": {
+    "description": "Hard difficulty of the package"
+  },
+  "addTeamTitle": "Add team",
+  "@addTeamTitle": {
+    "description": "Add team button title"
+  },
+  "penaltySettingTitle": "Penalty for skipping",
+  "numberOfWordsSettingTitle": "Number of words",
+  "numberOfWordsSettingSubtitle": "to win",
+  "gameTimeSettingTitle": "Time of the game",
+  "gameTimeSettingSubtitle": "in seconds",
+  "continueTitle": "Continue",
+  "acceptTitle": "Accept",
+  "letsGoTitle": "Let's go",
+  "round": "round",
+  "play": "play",
+  "playTitle": "Play",
+  "seconds": "sec",
+  "guessedTitle": "Guessed",
+  "passedTitle": "Passed",
+  "startTitle": "Start",
+  "championTitle": "Champion",
+  "startOverTitle": "Start over",
+  "exitTitle": "Exit",
+  "teamTigers": "Tigers",
+  "teamChickens" : "Chickens",
+  "teamFoxes": "Foxes",
+  "teamDogs": "Dogs",
+  "teamFrogs": "Frogs",
+  "teamWolfs": "Wolfs",
+  "prepareTitle": "Prepare"
+}
